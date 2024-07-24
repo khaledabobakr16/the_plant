@@ -1,16 +1,12 @@
-# clean_house
+# The Plant
 
-A new Flutter project.
+The "Predicting Crop Yields in Changing Climates Using AI" project is a Flutter-based application that harnesses artificial intelligence to predict crop yields amid varying climate conditions. Designed to assist farmers and agricultural professionals, this application offers accurate and reliable yield forecasts, enabling informed decision-making and optimized agricultural practices through custom-developed machine learning models.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+### AI-Powered Predictions
+Utilizes a custom-developed AI model, incorporating machine learning algorithms and deep learning techniques, to predict crop yields based on climatic data such as temperature, rainfall, and regional factors.
+### Location-Based Temperature Display
+Displays the user's current location temperature, providing context for crop yield predictions and enabling more precise, location-specific forecasting.
+### User-Friendly Interface 
+Offers an intuitive and easy-to-navigate interface.
