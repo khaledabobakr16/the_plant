@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533080583769",
+    "project_id": "graduation-project-560f4",
+    "storage_bucket": "graduation-project-560f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533080583769:android:a007d86899676723fc4b48",
+        "android_client_info": {
+          "package_name": "com.example.clean_house"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFVQaMeYx45P7EAWcyI1doRyKTKeKyJhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
